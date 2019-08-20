@@ -1,0 +1,14 @@
+8ca36b96d16d645f111c3739ed2e1b2c *DESCRIPTION
+cbbaff564e920773c8456df683ca9baf *NAMESPACE
+2dfc98e470209e50193707d29b72b6e3 *R/get.R
+f8f629e85d8901cacbd0a890292e611c *R/utils-pipe.R
+0163d95881f96724cb258526929b1c4a *README.md
+484c6bcc15f57219d65e42ab06cd4f96 *inst/WORDLIST
+0b4d95219755030eebfd067df63d50d4 *man/figures/README-exuber-ind-1.png
+c8fd32dc7006e0409fd73a20fe5d642b *man/figures/README-rhpi-1.png
+3b83e593c8a047859cc3fe4cd767779b *man/ihpd_get.Rd
+c827e4a9e9076e87bd85829dea901a5d *man/ihpd_release_dates.Rd
+7c0f31c27fb11a05372afe610d4f4164 *man/pipe.Rd
+332173f20d20942c02019350ea4dcadc *tests/spelling.R
+33b82131f9192cc9c5244c6dfb232fd5 *tests/testthat.R
+cc843673ef7e927b1e36e26ee562804c *tests/testthat/test-get.R
