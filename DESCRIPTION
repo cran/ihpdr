@@ -1,6 +1,6 @@
 Package: ihpdr
 Title: Download Data from the International House Price Database
-Version: 1.2.0
+Version: 1.2.1
 Authors@R: 
     person(given = "Kostas",
            family = "Vasilopoulos",
@@ -22,8 +22,8 @@ Language: en-US
 LazyData: true
 RoxygenNote: 7.1.0
 NeedsCompilation: no
-Packaged: 2020-04-24 16:59:03 UTC; T460p
+Packaged: 2020-07-12 16:59:23 UTC; T460p
 Author: Kostas Vasilopoulos [aut, cre]
 Maintainer: Kostas Vasilopoulos <k.vasilopoulo@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-04-25 01:20:02 UTC
+Date/Publication: 2020-07-13 04:30:06 UTC
